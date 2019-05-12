@@ -6,5 +6,7 @@
 ##如果youtube不能正常访问
 ### 请先学会科学上网。
 
+### 一键安装wireguard 参考演示视频集合
 
+| [![ScreenShot](https://www.youtube.com/watch?v=NuP_iOCEocg) |
 
