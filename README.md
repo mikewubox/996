@@ -12,3 +12,4 @@
 
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/NuP_iOCEocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifr
+<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/NuP_iOCEocg" width="480"></iframe>
