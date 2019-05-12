@@ -1,5 +1,6 @@
 # 欢迎订阅我的频道[MikewuTV](https://www.youtube.com/channel/UCuTeTj6YJOC8LfX3ggCwV1Q)
-订阅http://bit.ly/2WhuUpz
+[订阅点击](http://bit.ly/2WhuUpz)
+
 最后更新2019-05-13  星期一
 ### 如果youtube不能访问
 ### 请先学会正常上网。
