@@ -8,9 +8,4 @@
 
 ### 一键安装wireguard 参考演示视频集合
 
-| [![ScreenShot](https://www.youtube.com/watch?v=NuP_iOCEocg)|
-
-
-<video src="https://www.youtube.com/watch?v=NuP_iOCEocg" width="320" height="240" controls="controls">
-Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NuP_iOCEocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
