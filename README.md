@@ -12,4 +12,4 @@
 
 
 
-|[![996结局](image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg)|[![sanhu](image/gushihult.jpeg)](https://www.youtube.com/watch?v=Qi32LRFolew)|
+| [![996结局](image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg) | [![sanhu](image/gushihult.jpeg)](https://www.youtube.com/watch?v=Qi32LRFolew) |
