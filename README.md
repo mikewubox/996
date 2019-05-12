@@ -9,3 +9,6 @@
 ### 一键安装wireguard 参考演示视频集合
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NuP_iOCEocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="480" height="270" src="https://www.youtube.com/embed/NuP_iOCEocg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifr
