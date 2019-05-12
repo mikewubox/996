@@ -11,4 +11,5 @@
 
 
 
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/NuP_iOCEocg" width="480"></iframe>
+
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://www.youtube.com/embed/NuP_iOCEocg)
