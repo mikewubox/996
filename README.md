@@ -7,9 +7,10 @@
 ### 部分视频集合
  [![pic](/image/hqdefaffult.jpg)](https://www.youtube.com/watch?v=lwQ3ANy0O5c) 
 
-| [![996结局](image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg) 
+ [![996结局](image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg) 
 
 [![sanhu](/image/hqdefddault.jpg)](https://www.youtube.com/watch?v=Wyj26OsRCZY)
+宁波车博会随拍
 [![sanhu](/image/hqdefddfault.jpg)](https://www.youtube.com/watch?v=5w3pJvSk7Ek)
 
 [![sanhu](/image/gushihult.jpg)](https://www.youtube.com/watch?v=Qi32LRFolew)
