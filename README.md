@@ -12,4 +12,4 @@
 
 
 
-[![Alt text for your video](https://img.youtube.com/vi/NuP_iOCEocg/0.jpg)](https://www.youtube.com/embed/NuP_iOCEocg)
+[![Alt text for your video](https://github.com/mikewubox/996/blob/master/image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg)
