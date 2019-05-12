@@ -8,5 +8,5 @@
 
 ### 一键安装wireguard 参考演示视频集合
 
-| [![ScreenShot](https://www.youtube.com/watch?v=NuP_iOCEocg) |
+| [![ScreenShot](https://www.youtube.com/watch?v=NuP_iOCEocg)|
 
