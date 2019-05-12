@@ -12,4 +12,4 @@
 
 
 
-[![996结局](https://github.com/mikewubox/996/blob/master/image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg)
+[![996结局](image/6a7067.jpeg)](https://www.youtube.com/embed/NuP_iOCEocg)
